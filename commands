@@ -6,4 +6,6 @@ git add * # to add all the files to checklist/Staged
 git commit -m "#commit message" # to commit the changes
 git push # to push the changes to repository
 Note: to push the changes to the remote repository you need to add your git credentials to your Credentials Manager in your local machine
+git pull # to pull new changes to your local
+
 
