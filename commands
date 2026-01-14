@@ -1,2 +1,9 @@
 git clone <repo link>  # to clone git projects
 git checkout <branch_name>  # to switch the branch
+git status  # shows new files or changes made to the files
+git add <file_name> # to add file_name to checklist/Satged
+git add * # to add all the files to checklist/Staged
+git commit -m "#commit message" # to commit the changes
+git push # to push the changes to repository
+Note: to push the changes to the remote repository you need to add your git credentials to your Credentials Manager in your local machine
+
