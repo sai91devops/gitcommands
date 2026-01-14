@@ -1,0 +1,2 @@
+git clone <repo link>  # to clone git projects
+git checkout <branch_name>  # to switch the branch
